@@ -1,0 +1,6 @@
+.SecondDiv{
+    display: flex;  
+    justify-content: center;
+    padding-top: 10%;
+    color: rgb(8, 185, 162);
+}

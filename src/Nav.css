@@ -1,0 +1,38 @@
+
+.Nav_bar_style
+{
+    float: center;
+}
+.header-container
+{   width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 3px;
+    position: fixed;
+    top: 0;
+   background-color: aliceblue;
+}
+#logo-header-image
+{  
+    width: 100px;
+    height: 30px; 
+    width: 40%; 
+    
+}
+#header-list{
+display: flex;
+justify-content: space-evenly;
+padding: 1%;
+align-items: center;
+
+}
+.hl1{
+    color: rgb(152, 158, 157);
+
+}
+.hl1:hover{
+    color: rgb(8, 185, 162);
+
+}

@@ -1,0 +1,26 @@
+.brand-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    font-size: 30px;
+}
+.brand-list-one{
+    color: rgb(8, 185, 162);
+    width: 20%;
+}
+.brand-list-two{
+   display: block;
+   width: 55%;
+   display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.listlinkbrand:hover path{
+   fill:  rgb(8, 185, 162);
+
+}
+.listlinkbrand path{
+    fill:  rgb(85, 87, 87);
+ 
+ }
