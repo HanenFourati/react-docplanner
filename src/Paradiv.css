@@ -1,3 +1,9 @@
 .Secondparagraphs{
 text-align: center;
 padding: 100px;}
+@media screen and (max-width: 1024px) {
+    .Secondparagraphs{
+        width: 100%;
+        padding: 1px;
+    font-size: 20px;}
+}

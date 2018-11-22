@@ -24,3 +24,22 @@
     fill:  rgb(85, 87, 87);
  
  }
+ @media screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    .brand-links{
+ display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+ 
+    .brand-list-one{
+       
+        width: 80%;
+    }
+    .brand-list-two{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;  
+    }
+    
+  }

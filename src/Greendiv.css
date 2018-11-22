@@ -42,3 +42,40 @@
     height: 350px;
     
 }
+@media screen and (max-width: 1024px) {
+    .background-green-div{
+        height: 800px;
+    }
+    .boxesdisplay{
+        padding: 2px;
+        display: flex;
+        flex-direction: column;
+    }
+     .background-green-div{
+          
+        display: flex;
+        flex-direction: column;
+    }
+    .boxescol{
+       
+        display: flex;
+        flex-wrap: wrap;  
+      
+    }
+    .imagedisplay{
+        display: none;
+        
+    }
+    .textdisplay{
+        width: 100%;
+        padding-top: 1px;
+    }
+    .Whitebox{
+       
+        width: 170px;
+        height: 230px; 
+        box-shadow: 0 2px 4px 0 rgba(27, 161, 83, 0.1);
+        text-align: center;
+      
+     }
+}

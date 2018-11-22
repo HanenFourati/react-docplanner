@@ -36,3 +36,28 @@ align-items: center;
     color: rgb(8, 185, 162);
 
 }
+@media screen and (max-width: 1024px) {
+   
+.header-container
+{     display: flex;
+    flex-direction:row;
+    justify-content: center;
+   
+   background-color: aliceblue;
+  
+   
+}
+#logo-header-image
+{  display: none;
+    
+}
+
+#header-list{
+    width: 100%;
+   font-size:   14px;
+   display: flex;
+justify-content: flex-start;
+}
+
+
+}

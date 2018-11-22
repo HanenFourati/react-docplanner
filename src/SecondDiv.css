@@ -4,3 +4,12 @@
     padding-top: 10%;
     color: rgb(8, 185, 162);
 }
+@media screen and (max-width: 1024px) {
+   
+    .SecondDiv{
+        display: flex;  
+        justify-content: center;
+       padding-top: 100px;
+        color: rgb(8, 185, 162);
+    }
+    }

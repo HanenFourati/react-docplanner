@@ -64,7 +64,7 @@ class Greendiv extends Component {
                         <p>We work from 6 offices all over the world, bringing Docplanner Group to life in almost 20 countries.</p>            
                         <img className="imagedisplay" src={imgl} />
                         </div> 
-                          <div className="boxescol" >
+                 <div className="boxescol" >
                         <div  className="boxesdisplay" >
                        <Boxes boxesList={theBoxes} />
                        

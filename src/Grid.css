@@ -37,3 +37,16 @@ width: 50%
 border-color: rgb(71, 71, 204);
 background-color:  rgb(59, 59, 238);
 }
+@media screen and (max-width: 1024px) {
+    .grid-div{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .grid-container-one{
+        display: flex;
+        flex-direction: column;
+        
+    
+    }
+}
